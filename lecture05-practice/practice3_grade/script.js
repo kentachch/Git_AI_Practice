@@ -1,3 +1,4 @@
+// ===== ここは さわらなくて OK =====
 const input = document.getElementById("num");
 const button = document.getElementById("run");
 const result = document.getElementById("result");
@@ -15,10 +16,7 @@ button.addEventListener("click", () => {
   grade(score);
 });
 
-// ===== 上記は さわらなくて OK =====
-
-// ===== ここから下を AI に書いてもらい、pushまで行ってください。 =====
+// ===== ここから下を AI に書いてもらう =====
 function grade(score) {
-  // やること: if と else を使って、80点以上なら「A」、それ以外は「B」と show() で表示する
-  // ここから書き始めてください。
+  // AI がここに処理を書く
 }
