@@ -25,30 +25,39 @@ AI に Git の操作を頼みながら、かんたんな JavaScript の問題を
 ### 問題1
 
 ```text
-1) main ブランチに切りかえて git pull する。
-2) practice1-自分の名前 ブランチを作って切りかえる。
-3) practice1_score/script.js の judge 関数の中だけを if/else で実装する。
-   score が 60 以上なら show("合格")、それ以外は show("不合格")。
-4) practice1_score フォルダの変更を git add する。
-5) 『合格・不合格の判定を追加』というメッセージで git commit する。
-6) practice1-自分の名前 ブランチを GitHub に git push する。
+1) main ブランチに切りかえて、git pull してください。
+2) practice1-自分の名前 ブランチを作って、切りかえてください。
+3) practice1_score/script.js の judge 関数の中だけを、if/else で書いてください。
+   score が 60 以上なら show("合格")、それ以外は show("不合格") と表示してください。
+   ほかのファイルはさわらないでください。
+4) practice1_score/script.js を git add してください。
+5) 『合格・不合格の判定を追加』というメッセージで git commit してください。
+6) practice1-自分の名前 ブランチを GitHub に git push してください。
 ```
 
 ### 問題2
 
 ```text
-1) main ブランチに切りかえて git pull する。
-2) practice2-自分の名前 ブランチを作って切りかえる。
-3) practice2_age/script.js の checkAge 関数の中だけを if/else で実装する。
-   age が 18 以上なら show("成人です")、それ以外は show("未成年です")。
-4) practice2_age フォルダの変更を git add する。
-5) 『成人・未成年の判定を追加』というメッセージで git commit する。
-6) practice2-自分の名前 ブランチを GitHub に git push する。
+1) main ブランチに切りかえて、git pull してください。
+2) practice2-自分の名前 ブランチを作って、切りかえてください。
+3) practice2_age/script.js の checkAge 関数の中だけを、if/else で書いてください。
+   age が 18 以上なら show("成人です")、それ以外は show("未成年です") と表示してください。
+   ほかのファイルはさわらないでください。
+4) practice2_age/script.js を git add してください。
+5) 『成人・未成年の判定を追加』というメッセージで git commit してください。
+6) practice2-自分の名前 ブランチを GitHub に git push してください。
 ```
 
 ### 問題3
 
-問題2を参考に、プロンプトを自分で書いてみましょう。
+プロンプトは自分で書きます。次のことを AI に頼んでください。
+
+- main ブランチに切りかえて、git pull する
+- practice3-自分の名前 ブランチを作って、切りかえる
+- practice3_grade/script.js の grade 関数の中だけを、if/else で書く（score が 80 以上なら「A」、それ以外は「B」）
+- practice3_grade/script.js を git add する
+- 『成績 A・B の判定を追加』というメッセージで git commit する
+- practice3-自分の名前 ブランチを GitHub に git push する
 
 ## 約束
 

@@ -1,4 +1,3 @@
-// ===== ここは さわらなくて OK =====
 const input = document.getElementById("num");
 const button = document.getElementById("run");
 const result = document.getElementById("result");
@@ -16,7 +15,9 @@ button.addEventListener("click", () => {
   judge(score);
 });
 
+// ===== 上記は さわらなくて OK =====
 // ===== ここから下を AI に書いてもらう =====
 function judge(score) {
   // AI がここに処理を書く
+  
 }
