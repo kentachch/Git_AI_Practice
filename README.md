@@ -50,14 +50,7 @@ AI に Git の操作を頼みながら、かんたんな JavaScript の問題を
 
 ### 問題3
 
-プロンプトは自分で書きます。次のことを AI に頼んでください。
-
-- main ブランチに切りかえて、git pull する
-- practice3-自分の名前 ブランチを作って、切りかえる
 - practice3_grade/script.js の grade 関数の中だけを、if/else で書く（score が 80 以上なら「A」、それ以外は「B」）
-- practice3_grade/script.js を git add する
-- 『成績 A・B の判定を追加』というメッセージで git commit する
-- practice3-自分の名前 ブランチを GitHub に git push する
 
 ## 約束
 
