@@ -1,0 +1,9 @@
+body { font-family: "Hiragino Sans", "Noto Sans JP", "Meiryo", sans-serif; background: #f7f5ef; color: #1f2a44; margin: 0; padding: 40px; }
+.card { max-width: 640px; margin: 0 auto; background: #fff; border: 1px solid #d9dee6; border-radius: 16px; padding: 32px; }
+.tag { display: inline-block; background: #2f6fb0; color: #fff; border-radius: 20px; padding: 4px 14px; font-size: 14px; font-weight: bold; }
+h1 { font-size: 28px; margin: 12px 0; }
+p { line-height: 1.7; }
+.row { display: flex; gap: 12px; align-items: center; margin: 24px 0; }
+input { font-size: 20px; padding: 8px 12px; width: 160px; border: 2px solid #c9d6e8; border-radius: 8px; }
+button { font-size: 18px; font-weight: bold; padding: 10px 24px; background: #b8560f; color: #fff; border: none; border-radius: 8px; cursor: pointer; }
+#result { min-height: 60px; background: #eef2f7; border-radius: 10px; padding: 16px 16px 16px 40px; font-size: 22px; font-weight: bold; margin: 0; }
